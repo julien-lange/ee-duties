@@ -1,0 +1,61 @@
+
+
+
+*MOD002643 (Image Processing) - Assignment 1500 words*
+
+Nice project. Tasks increase in difficulty nicely. Thorough coding
+guidelines, althought it is not entirely clear how they are enforced
+in the marking scheme.
+
+Typos in canvas description: Question 1..6 and 8 are *worsth* 10%
+(...) *worst*
+
+
+
+
+*MOD002726 (Postgraduate Major Project) - 2 components - 15000 words equivalent*
+
+--> this link points to MOD007891.
+
+
+*MOD003263 (Software Engineering) - Multiphase group-based
+ assessment. Equivalent of 6000 words per group member*
+
+NB: I got "File Not Found" when access the file linked from "Case
+Study for the assignment can be found <here>".
+
+Objectives and marking schemes appear reasonable to me.
+
+
+
+*MOD004553 (Artificial Intelligence) - Software development (3000
+ words equivalent)*
+
+Nice game-oriented project. Clear marking scheme.
+
+
+
+*MOD004881 (Object Oriented Programming) - Coding task (equivalent to
+ 2500 words)*
+
+Nice, realistic project. Clear marking scheme.  Is there a possibility
+for student's project to be commercialised? What happens wrt
+intellectual property here?
+
+
+*MOD004881 (Object Oriented Programming) - Report (1500 words)*
+
+Ok.
+
+
+
+
+*MOD007891 (Programming with Python) - ASSIGNMENT (REPORT/PROJECT) -
+ 2,500 WORDS*
+ 
+
+Good set of exercises, from guided ones to more open harder questions,
+all with real-world problems/data.
+
+What is the rationale for the bonus question appearing before the last
+10% question?

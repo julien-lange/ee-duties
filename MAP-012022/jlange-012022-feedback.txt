@@ -1,0 +1,64 @@
+MOD007891 - Programming with Python
+-----------------------------------
+
+- Mean well above range (79% vs 50-65%). How does it compare with
+  historical data?
+
+- Can it be that the assessments are too easy, even for conversion
+  students? Would you consider providing less scaffolding to expose a
+  better range of skills?
+
+- Both assignments clearly moderated. The documents were easy for me
+  to go through, thank you!
+
+
+MOD006901 - Computational Concepts and Algorithms for Data Science
+-----------------------------------
+
+- Mean well above range (82% vs 50-65%). How does it compare with
+  historical data?
+
+- Would it make sense to adapt the assignments to have less scaffolding
+  (to make it a better evaluator)?
+
+- Assignment clearly moderated. I couldn't see the final mark from the
+  feedback forms, it made things a bit harder than necessary for
+  me. Otherwise, all is clear, thank you.
+
+
+MOD004881 - Object Oriented Programming
+-----------------------------------
+
+- Mean above range (75% vs 50-65%). How does it compare with
+  historical data?
+
+- Assessments look good otherwise, clearly moderated. Nice and precise
+  feedback.
+
+
+MOD004553 - Artificial Intelligence
+-----------------------------------
+
+- Mean above range (71% vs 50-65%). How does it compare with
+  historical data? I suppose the high average doesn't include all the
+  zeros.
+
+- Nice distribution for Coursework 010.
+
+
+MOD003263 - Software Engineering
+-----------------------------------
+Empty
+
+
+MOD002701 - Developing Web Applications
+-----------------------------------
+Empty
+
+
+MOD002643 - Image Processing
+-----------------------------------
+- Only brief description for 010 (would be good to see more)
+
+- Could access 011. Looks good. Nice feedback, and easy for me to
+  access. I'd like to see some statistics too.
