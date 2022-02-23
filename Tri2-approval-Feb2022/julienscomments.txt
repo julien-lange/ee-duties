@@ -12,7 +12,10 @@ MOD006561 (Artificial Neural Networks)
 
 MOD003264 (Digital Security)
 - coursework: typo p1 of brief: Student Must submit -> Students must submit?
-- exam: TBD
+- exam: (link didn't let me, but PDF ok thanks!)
+  	Q16,Q17,Q26: Phrase explicitely as a question?
+  	Q36: inconsistent captilisation
+	Q64: space missing after comma
 
 MOD005618 (OO modelling and data)
 - cw1 (3500 words): ok
@@ -28,8 +31,12 @@ MOD004364 (Advanced Web Solutions)
 - assignment: ok (considering defining "KPI"?)
 
 MOD002701 (Developing Web Applications)
+-------- same as MOD004364?
+- demo: brief says "The team members will receive 1% if they
+  contributed to the project's progress." but component weight is 0%
+  (pass/fail). What does this 1% correspond to?
+- assignment: ok (considering defining "KPI"?)
 
-
-
-
+MOD002726 (Postgraduate Major Project)
+- Ok
 
