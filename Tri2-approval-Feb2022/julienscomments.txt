@@ -1,0 +1,35 @@
+MOD005622 (OO)
+- C1: ok
+- C2: ok
+
+MOD007357 (Algorithm Analysis and Data Structures)
+- exam: TBD
+- practical: Ok
+
+MOD006561 (Artificial Neural Networks)
+- coursework: How is "novelty and originality" measured here?
+- exam: ok 
+
+MOD003264 (Digital Security)
+- coursework: typo p1 of brief: Student Must submit -> Students must submit?
+- exam: TBD
+
+MOD005618 (OO modelling and data)
+- cw1 (3500 words): ok
+- cw1 (2500 words): ok
+
+MOD002641 (Data Structures and Algorithms)
+TBD
+
+MOD004364 (Advanced Web Solutions)
+- demo: brief says "The team members will receive 1% if they
+  contributed to the project's progress." but component weight is 0%
+  (pass/fail). What does this 1% correspond to?
+- assignment: ok (considering defining "KPI"?)
+
+MOD002701 (Developing Web Applications)
+
+
+
+
+

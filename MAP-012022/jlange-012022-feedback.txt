@@ -1,3 +1,19 @@
+
+Next meeting: 30th May 2022
+
+(x) MOD002643 Image Processing
+(x) MOD003263 Software Engineering 
+(x) MOD004881 Object Oriented Programming
+(x) MOD006901 Computational Concepts and Algorithms for Data Science
+(x) MOD004553 Artificial Intelligence
+
+MOD002701 Developing Web Applications
+MOD007891 Programming with Python
+
+
+
+
+
 MOD007891 - Programming with Python
 -----------------------------------
 
@@ -16,7 +32,7 @@ MOD006901 - Computational Concepts and Algorithms for Data Science
 -----------------------------------
 
 - Mean well above range (82% vs 50-65%). How does it compare with
-  historical data?
+  historical data? --> Apprentices
 
 - Would it make sense to adapt the assignments to have less scaffolding
   (to make it a better evaluator)?
@@ -48,12 +64,23 @@ MOD004553 - Artificial Intelligence
 
 MOD003263 - Software Engineering
 -----------------------------------
-Empty
+
+- Average a bit low but explained by students being wrongly enrolled
+  if I understand correctly?
+
+- The feedback is well presented, quite detailed and contains
+  actionable points.
+
+- Thank for providing student samples and feedback together, very
+  convenient for me.
 
 
 MOD002701 - Developing Web Applications
 -----------------------------------
-Empty
+
+- 3 students
+
+- Looks good, nice functionality oriented feedback/marking scheme.
 
 
 MOD002643 - Image Processing
@@ -62,3 +89,54 @@ MOD002643 - Image Processing
 
 - Could access 011. Looks good. Nice feedback, and easy for me to
   access. I'd like to see some statistics too.
+
+---------------------------------------------------------
+---------------------------------------------------------
+
+
+- Thank module leaders for sharing the documents in a user-friendly
+  way, and responding to questions very quickly.
+
+- Thank Larry for helpful
+
+- Marking appears really fair, feedback very nicely presented.
+
+- Average rather high. When designing in assessment: make sure
+  questions to allow the students to demonstrate their best abilities.
+  Cambridge Spark? -> need to work to more open / less scaffolding?
+
+-> a bit more context in module report (apprenticeships)
+
+- Many non submission?)
+     
+- (Too much scaffolding?)
+
+---------------------------------------------------------
+---------------------------------------------------------
+
+From 300 students to 900 in a few years.
+Staff growing too, slower pace.
+Using associate lecturers for some modules (PhD students etc).
+
+Framework award: if students fail core modules, they can graduate DSE
+degree if enough credits. This won't be used anymore.
+Students will have an option to choose new or old system for transition.
+New system: will re-take the year completely, then get the normal
+degree titiles.
+
+
+New regulation for extensions: grace period for 5 working days. Capped
+at 40%. Same working day: just a slight reduction in the mark.
+
+Due to COVID. Modules that used to have an exam, have been changed to
+CW assignment of some kind (except if professional body asked for an
+exam). Exam was taken online, invigilated via software (proctorio).
+--> AI + Software Engineering BSc are the ones using exams (bc of
+certificaiton).
+
+(6/05/2022 re-assessment for coursework.)
+
+---------------------------------------------------------
+---------------------------------------------------------
+
+
