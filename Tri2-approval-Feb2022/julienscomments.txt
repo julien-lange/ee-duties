@@ -46,3 +46,24 @@ MOD002726 (Postgraduate Major Project)
 
 Marking of MOD003263
 - happy with the marking
+
+
+Marking of MOD002701
+- Ok
+
+Marking of MOD003263
+- ok
+
+Marking of MOD002643
+- ok 
+
+
+
+
+---------- 16/03/2022 ----------
+
+- MOD002641 (Data Structures and Algorithms)
++ Exam
+Q1: typo in answer? ("an n items...")
++ Coursework
+Difficulty appears appropriate, brief is clear and precise.
