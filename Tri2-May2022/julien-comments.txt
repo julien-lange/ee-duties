@@ -1,0 +1,24 @@
+MOD002701
+Developing Web Applications
+
+MOD004364
+Advanced Web Solutions
+
+MOD002641
+Data Structures and Algorithms
+
+MOD007357
+Algorithm Analysis and Data Structures
+
+MOD003264
+Digital Security
+> The work has been marked fairly and consistently. Is there a particular reason for the moderated samples (and feedback) to be presented differently for different locations? (I found the CAM one easier to assess).
+
+MOD005618
+Object Orientated Modelling and Data Design
+> Everything ok. The work has been marked fairly and consistently. 
+
+
+MOD006561
+Artificial Neural Networks
+> Everything ok. The work has been marked fairly and consistently. 
