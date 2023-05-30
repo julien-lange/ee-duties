@@ -2,9 +2,9 @@
 
 # General questions
 
-* The second examiner box on front page of exam scripts is not used?
-  Are these scripts moderated/second marked (cf MOD002641 and
-  MOD006561)?
+The second examiner box on front page of exam scripts (pen & paper) is
+not used?  Are these scripts moderated/second marked (cf MOD002641 and
+MOD006561)?
 
 
 # MOD002641 - Data Structures and Algorithms
@@ -66,7 +66,11 @@ The work has been marked fairly and consistently.
 
 # MOD007357 - Algorithm Analysis and Data Structures
 
+The work has been marked fairly and consistently. 
 
+* I am not sure whether feedback on module amendment are needed at
+  this stage, but the proposal here makes sense to me. 
+  
 
 # Global comments:
 
@@ -81,3 +85,7 @@ The work has been marked fairly and consistently.
   in three quite different styles for each location. All locations
   should follow the Cambridge style, ideally. Links to samples (incl
   feedback) from moderation form is most convenient.
+
+- MOD007357: lots of cheating and poor attendance, potentially due to
+  "COVID cohort". Want to move to more invigilated assessments (also
+  bc of ChatGPT etc).
