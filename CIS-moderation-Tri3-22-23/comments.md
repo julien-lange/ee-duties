@@ -97,6 +97,8 @@ The work has been marked fairly and consistently.
 - MOD007357: lots of cheating and poor attendance, potentially due to
   "COVID cohort". Want to move to more invigilated assessments (also
   bc of ChatGPT etc).
+  
+- Borderline marks (39%) should be checked before? 
 
 
 ---
@@ -147,3 +149,36 @@ particularly weak? Did the student survey reveal anything?
 NB: there are two .csv files in this folder, I am not sure what each
 correspond to (both are about Element 010?).
 
+---
+MAP meeting notes
+---
+
+
+## Things to note 
+
+* no boycott-related missing marks
+
+* Want: 80% pass rate and ~60% average
+
+* Apprentiship still does very well (not spread) but this can be
+  explained by students just being committed (>< typical UG students).
+  
+* Attendance weak, some very weak students
+
+* A few instances of asking for assessments to be remarked (eg from
+  SAM - Trinidad)
+
+## Questions
+
+* Plans to monitor engagement? (address number of non-submission)
+
+
+
+## Overall comments
+
+* Excellent feedback, good spread generally
+
+* Usually, nice MAP boxes (consistent)
+
+* Attendance / low engagement in level 5 unfortunate -> think about
+  how to suppor tem next year?
